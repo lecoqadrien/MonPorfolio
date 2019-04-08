@@ -707,6 +707,29 @@ footer{
     .fc3{
         margin: 0 auto;
     }
+
+    .step__game{
+        display: block;
+        max-width: 50%;
+        height: 220px;
+        margin: 0 auto;
+    }
+
+    .step_ux {
+        display: block;
+        max-width:40%;
+        height: 220px;
+        margin: 0 auto;
+    }
+
+    .step_blog{
+        display: block;
+        max-width: 50%;
+        height: 220px;
+        margin: 0 auto;
+    }
+
+    .steps
 }
 
 @media(max-width: 720px) {
@@ -733,5 +756,27 @@ footer{
     #steps__projet{
         margin-top: 13vh;
     }
+
+    .step__game{
+        display: block;
+        max-width: 40%;
+        height: 160px;
+        margin: 0 auto;
+    }
+
+    .step_ux {
+        display: block;
+        max-width:40%;
+        height: 160px;
+        margin: 0 auto;
+    }
+
+    .step_blog{
+        display: block;
+        max-width: 40%;
+        height: 160px;
+        margin: 0 auto;
+    }
+
 
 }
