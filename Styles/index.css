@@ -438,14 +438,21 @@ figcaption{
     height: 220px;
 }
 
+.step__beach{
+    display: block;
+    max-width: 100%;
+    height: 220px;
+}
+
 .step_ux {
     max-width:100%;
     height: 220px;
 }
 
 .step_travel{
+    display: block;
     max-width:100%;
-    height: 190px;
+    height: 180px;
 }
 
 .step_blog{
@@ -729,7 +736,12 @@ footer{
         margin: 0 auto;
     }
 
-    .steps
+    .step__beach{
+        display: block;
+        max-width: 50%;
+        height: 220px;
+        margin: 0 auto;
+    }
 }
 
 @media(max-width: 720px) {
